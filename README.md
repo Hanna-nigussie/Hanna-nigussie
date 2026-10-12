@@ -15,7 +15,6 @@
 
 ### ♡ whoami
 
-### ♡ whoami
 
 hii, i'm **Hanna Nigussie**! 🎀
 

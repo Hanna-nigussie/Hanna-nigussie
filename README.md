@@ -1,5 +1,4 @@
-
-<!-- 🌸 HEADER -->
+ <!-- 🌸 HEADER -->
 
 <div align="center">
 
@@ -15,7 +14,6 @@
 
 ### ♡ whoami
 
-
 hii, i'm **Hanna Nigussie**! 🎀
 
 💻 **AI Engineer & Full-Stack Developer** from Addis Ababa, Ethiopia 🇪🇹
@@ -27,14 +25,10 @@ i love building things with code, exploring artificial intelligence, and turning
 * 🤖 Artificial Intelligence & Generative AI
 * 🧠 RAG systems and LLM applications
 * 🌷 Full-Stack Web Development
-* 💡 Learning new technologies and solving problems
+* 📱 Mobile App Development with Flutter
+* 🎨 UI/UX Design and creative problem-solving
 
 *little by little, i'm building something meaningful. thanks for stopping by! 💗*
-
-
-I'm a developer who loves combining **AI and software engineering** to build useful, creative solutions. I enjoy exploring new technologies, solving problems, and turning ideas into working applications.
-
-I believe every great project starts with curiosity, a little creativity, and lots of coffee ☕💻
 
 ---
 
@@ -64,6 +58,13 @@ I believe every great project starts with curiosity, a little creativity, and lo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+**୨୧ Mobile Development & State Management**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge\&logo=dart\&logoColor=white)
+
 **୨୧ Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -72,21 +73,42 @@ I believe every great project starts with curiosity, a little creativity, and lo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 
+**୨୧ UI/UX Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+♡ User Interface Design
+♡ User Experience Design
+♡ Wireframing & Prototyping
+♡ Creating clean, intuitive, user-friendly interfaces 🎨
+
 ---
 
 ### ♡ things i've built
 
-**୨୧ Face & Emotion Recognition**
+**୨୧ Face & Emotion Recognition** 🧠
 
 Exploring computer vision through face recognition and emotion recognition.
 
 [♡ View Repository](https://github.com/Hanna-nigussie/Face-and-emotion-recognition)
 
-**୨୧ Voice-to-Voice Farmer Advisor**
+**୨୧ Voice-to-Voice Farmer Advisor** 🌱
 
-Working on an AI-powered voice assistant designed to help Ethiopian farmers access agricultural guidance and market information in Amharic.
+An AI-powered voice assistant project designed to help Ethiopian farmers access agricultural guidance and market information in Amharic.
 
-[♡ Explore My GitHub Repositories](https://github.com/Hanna-nigussie?tab=repositories)
+[♡ Explore My Repositories](https://github.com/Hanna-nigussie?tab=repositories)
+
+**୨୧ Service Scheduling System** 📅
+
+A web-based application designed to help clients and service providers manage service scheduling and organize their activities.
+
+[♡ View Repository](https://github.com/Hanna-nigussie/Service-Scheduling-System)
+
+**୨୧ Handy Jobs Hub** 💼
+
+A Flutter application designed to connect job seekers and employers, with authentication and role-based access for different users.
+
+[♡ View Repository](https://github.com/Hanna-nigussie/handy-jobs-hub)
 
 ---
 

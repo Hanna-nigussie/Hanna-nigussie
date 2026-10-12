@@ -15,26 +15,23 @@
 
 ### ♡ whoami
 
-```python
-class Hanna:
-    def __init__(self):
-        self.name = "Hanna Nigussie"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Addis Ababa, Ethiopia 🇪🇹"
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI & RAG",
-            "Web Development",
-            "Building useful things"
-        ]
-        self.currently_learning = "Always something new ✨"
+### ♡ whoami
 
-    def say_hi(self):
-        print("Thanks for stopping by! 💗")
+hii, i'm **Hanna Nigussie**! 🎀
 
-me = Hanna()
-me.say_hi()
-```
+💻 **AI Engineer & Full-Stack Developer** from Addis Ababa, Ethiopia 🇪🇹
+
+i love building things with code, exploring artificial intelligence, and turning creative ideas into real-world applications. ✨
+
+♡ **currently interested in**
+
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 RAG systems and LLM applications
+* 🌷 Full-Stack Web Development
+* 💡 Learning new technologies and solving problems
+
+*little by little, i'm building something meaningful. thanks for stopping by! 💗*
+
 
 I'm a developer who loves combining **AI and software engineering** to build useful, creative solutions. I enjoy exploring new technologies, solving problems, and turning ideas into working applications.
 
